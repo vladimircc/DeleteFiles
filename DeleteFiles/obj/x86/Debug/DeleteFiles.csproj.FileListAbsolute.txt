@@ -1,0 +1,27 @@
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe.config
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\Support.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\Support.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.exe
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\CommonLayer.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\CommonLayer.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\BusinessLayer.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\BusinessLayer.pdb
+F:\PC\Documents\Documents\Visual Studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe.config
+F:\PC\Documents\Documents\Visual Studio 2010\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.exe
+F:\PC\Documents\Documents\Visual Studio 2010\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.pdb
+D:\Desarrollo\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe.config
+D:\Desarrollo\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe
+D:\Desarrollo\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.pdb
+D:\Desarrollo\DeleteFiles\DeleteFiles\bin\Debug\BusinessLayer.dll
+D:\Desarrollo\DeleteFiles\DeleteFiles\bin\Debug\Support.dll
+D:\Desarrollo\DeleteFiles\DeleteFiles\bin\Debug\CommonLayer.dll
+D:\Desarrollo\DeleteFiles\DeleteFiles\bin\Debug\BusinessLayer.pdb
+D:\Desarrollo\DeleteFiles\DeleteFiles\bin\Debug\Support.pdb
+D:\Desarrollo\DeleteFiles\DeleteFiles\bin\Debug\CommonLayer.pdb
+D:\Desarrollo\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.csprojResolveAssemblyReference.cache
+D:\Desarrollo\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.exe
+D:\Desarrollo\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.pdb

@@ -1,0 +1,14 @@
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\CommonLayer\bin\Debug\CommonLayer.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\CommonLayer\bin\Debug\CommonLayer.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\CommonLayer\bin\Debug\Support.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\CommonLayer\bin\Debug\Support.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\CommonLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\CommonLayer\obj\Debug\CommonLayer.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\CommonLayer\obj\Debug\CommonLayer.pdb
+D:\Desarrollo\DeleteFiles\CommonLayer\bin\Debug\CommonLayer.dll
+D:\Desarrollo\DeleteFiles\CommonLayer\bin\Debug\CommonLayer.pdb
+D:\Desarrollo\DeleteFiles\CommonLayer\bin\Debug\Support.dll
+D:\Desarrollo\DeleteFiles\CommonLayer\bin\Debug\Support.pdb
+D:\Desarrollo\DeleteFiles\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
+D:\Desarrollo\DeleteFiles\CommonLayer\obj\Debug\CommonLayer.dll
+D:\Desarrollo\DeleteFiles\CommonLayer\obj\Debug\CommonLayer.pdb

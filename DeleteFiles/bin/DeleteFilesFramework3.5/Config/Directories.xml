@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Directories>
+  <Directory>
+    <Path>D:\Appls\Logs\4</Path>
+    <MoveTo>D:\Appls\Logs\2013\BackUp</MoveTo>
+    <ForceDelete>false</ForceDelete>
+    <Patterns>
+      <Pattern>*.txt</Pattern>
+      <Pattern>*.log</Pattern>
+    </Patterns>
+    <KeepDaysOfLog>90</KeepDaysOfLog>
+  </Directory>
+  <Directory>
+    <Path>D:\Appls\Logs\2013</Path>
+    <MoveTo>D:\Appls\Logs\2013\BackUp</MoveTo>
+    <ForceDelete>false</ForceDelete>
+    <Patterns>
+      <Pattern id="txt">*.txt</Pattern>
+      <Pattern id="log">*.log</Pattern>
+    </Patterns>
+    <KeepDaysOfLog>90</KeepDaysOfLog>
+  </Directory>
+</Directories>

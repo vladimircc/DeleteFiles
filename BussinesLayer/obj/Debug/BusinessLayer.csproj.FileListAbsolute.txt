@@ -1,0 +1,20 @@
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\BussinesLayer\bin\Debug\CommonLayer.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\BussinesLayer\bin\Debug\Support.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\BussinesLayer\bin\Debug\CommonLayer.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\BussinesLayer\bin\Debug\Support.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\BussinesLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\BussinesLayer\bin\Debug\BusinessLayer.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\BussinesLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\BussinesLayer\obj\Debug\BusinessLayer.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\BussinesLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\BussinesLayer\bin\Debug\TaskScheduler.dll
+D:\Desarrollo\DeleteFiles\BussinesLayer\bin\Debug\BusinessLayer.dll
+D:\Desarrollo\DeleteFiles\BussinesLayer\bin\Debug\BusinessLayer.pdb
+D:\Desarrollo\DeleteFiles\BussinesLayer\bin\Debug\CommonLayer.dll
+D:\Desarrollo\DeleteFiles\BussinesLayer\bin\Debug\Support.dll
+D:\Desarrollo\DeleteFiles\BussinesLayer\bin\Debug\TaskScheduler.dll
+D:\Desarrollo\DeleteFiles\BussinesLayer\bin\Debug\CommonLayer.pdb
+D:\Desarrollo\DeleteFiles\BussinesLayer\bin\Debug\Support.pdb
+D:\Desarrollo\DeleteFiles\BussinesLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Desarrollo\DeleteFiles\BussinesLayer\obj\Debug\BusinessLayer.dll
+D:\Desarrollo\DeleteFiles\BussinesLayer\obj\Debug\BusinessLayer.pdb

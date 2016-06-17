@@ -1,0 +1,14 @@
+C:\Users\V\documents\visual studio 2010\Projects\ToolsMonitRX\Support\bin\Debug\Support.dll
+C:\Users\V\documents\visual studio 2010\Projects\ToolsMonitRX\Support\bin\Debug\Support.pdb
+C:\Users\V\documents\visual studio 2010\Projects\ToolsMonitRX\Support\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\V\documents\visual studio 2010\Projects\ToolsMonitRX\Support\obj\Debug\Support.dll
+C:\Users\V\documents\visual studio 2010\Projects\ToolsMonitRX\Support\obj\Debug\Support.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\Support\bin\Debug\Support.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\Support\bin\Debug\Support.pdb
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\Support\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\Support\obj\Debug\Support.dll
+C:\Users\V\documents\visual studio 2010\Projects\DeleteFiles\Support\obj\Debug\Support.pdb
+D:\Desarrollo\DeleteFiles\Support\bin\Debug\Support.dll
+D:\Desarrollo\DeleteFiles\Support\bin\Debug\Support.pdb
+D:\Desarrollo\DeleteFiles\Support\obj\Debug\Support.dll
+D:\Desarrollo\DeleteFiles\Support\obj\Debug\Support.pdb
